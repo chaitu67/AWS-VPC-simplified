@@ -49,6 +49,6 @@ ACL’s sits between route table and subnet similar to route table we defined.We
 •	The naming convention of the security groups also a good way to understand the vpc and its related components.
 •	Use different availability zones in VPC to make the application highly available.
 
-# referance
+# Reference
 
 https://www.youtube.com/watch?v=fpxDGU2KdkA
